@@ -1,5 +1,6 @@
 .idea
 Authdv/__init__.py
+Authdv/__pycache__
 
 .DS_Store
 node_modules
